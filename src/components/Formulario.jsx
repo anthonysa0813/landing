@@ -23,7 +23,10 @@ const Formulario = () => {
           <div className="input-icon select"></div>
           <input type="text" placeholder="Selecciona tu carrera" />
         </div>
-        <input type="text" />
+        <input type="checkbox" /> He leído la declaración de Protección de Datos
+        y acepto el tratamiento de mis datos que se describe en dicho
+        formulario.
+        <button>Enviar</button>
       </form>
     </>
   );

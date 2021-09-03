@@ -1,0 +1,12 @@
+footer {
+  background-color: #04384d;
+  color: white;
+  padding: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer h2 {
+  margin: 0;
+}

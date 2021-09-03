@@ -1,0 +1,26 @@
+.school-container {
+  height: 700px;
+  position: relative;
+  /* border: 10px solid black; */
+}
+
+.school-image {
+  background-image: url("../images/escuelas.png");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.fondo-user {
+  background-image: url("../images/recurso.png");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: left 10% bottom;
+}
+
+.school-user {
+  background-image: url("../images/user-services.png");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: left 10% bottom;
+}

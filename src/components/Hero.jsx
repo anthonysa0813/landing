@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className="wrapper">
       <h1>Incap</h1>
-      <input type="text" />
+
       <Formulario />
     </div>
   );
